@@ -1,0 +1,36 @@
+#!C:\Program Files (x86)\ActiveState Perl Dev Kit 9.1.1\bin\perltray-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files (x86)\ActiveState Perl Dev Kit 9.1.1\bin\perltray.exe
+Script: DataLogger.Tray.pl
+Cwd: G:\Soft\Programacion\Protocol.ASTM\src
+Clean: 0
+Date: 2012-05-19 21:56:56
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: DataLogger.Tray.exe
+Force: 1
+Hostname: Mariano-PC
+Icon: icon1.ico
+Icon: icon2.ico
+Manifest: 
+No-Compress: 0
+No-Gui: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Singleton: 
+Tmpdir: 
+Verbose: 0
+Version-Comments: Creative Commons Reconocimiento-NoComercial 3.0 Unported License
+Version-CompanyName: Biolac
+Version-FileDescription: Extrae informacion de un puerto serie y lo deja en una base de datos MySQL
+Version-FileVersion: 1.1
+Version-InternalName: DataloggerASTM
+Version-LegalCopyright: Mariano J. Obarrio Miles
+Version-LegalTrademarks: Biolac
+Version-OriginalFilename: DataLogger
+Version-ProductName: DataLogger
+Version-ProductVersion: 1.1
+Warnings: 0
+Xclude: 0

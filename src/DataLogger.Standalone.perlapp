@@ -1,0 +1,34 @@
+#!C:\Program Files (x86)\ActiveState Perl Dev Kit 9.1.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: C:\Program Files (x86)\ActiveState Perl Dev Kit 9.1.1\bin\perlapp.exe
+Script: DataLogger.Standalone.pl
+Cwd: G:\Soft\Programacion\Protocol.ASTM\src
+Clean: 1
+Date: 2012-05-19 21:56:19
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: DataLogger.Standalone.exe
+Force: 1
+Gui: 0
+Hostname: Mariano-PC
+Icon: icon1.ico
+Manifest: 
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: Creative Commons Reconocimiento-NoComercial 3.0 Unported License
+Version-CompanyName: Biolac
+Version-FileDescription: Extrae informacion de un puerto serie y lo deja en una base de datos MySQL
+Version-FileVersion: 1.1
+Version-InternalName: DataloggerASTM
+Version-LegalCopyright: Mariano J. Obarrio Miles
+Version-LegalTrademarks: Biolac
+Version-OriginalFilename: DataLogger
+Version-ProductName: DataLogger
+Version-ProductVersion: 1.1
+Warnings: 0
+Xclude: 0
